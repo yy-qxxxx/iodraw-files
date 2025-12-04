@@ -214,10 +214,10 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-72" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-73" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-73" value="订单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-74" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-74" value="总价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-75" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
