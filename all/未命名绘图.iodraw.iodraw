@@ -111,10 +111,10 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-33" value="真实姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-34" value="省份证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-35" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
