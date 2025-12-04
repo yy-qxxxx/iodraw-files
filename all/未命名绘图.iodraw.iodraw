@@ -60,11 +60,6 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-3" value="座位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="339.57142857142867" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-4" target="po6YpFjUPnP8YbVet1n4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -74,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-4" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-5" value="订单明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
@@ -99,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-7" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-8" target="po6YpFjUPnP8YbVet1n4-3">
           <mxGeometry relative="1" as="geometry" />
