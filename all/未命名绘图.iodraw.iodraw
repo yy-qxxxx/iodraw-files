@@ -204,7 +204,7 @@
           <mxGeometry x="-130" y="-130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-48" value="演唱会ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-49" value="演唱会名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="340" width="120" height="80" as="geometry" />
@@ -216,13 +216,13 @@
           <mxGeometry x="-300" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-52" value="演出时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="620" width="120" height="80" as="geometry" />
+          <mxGeometry x="-250" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-53" value="每人限购" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="690" width="120" height="80" as="geometry" />
+          <mxGeometry x="-100" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-54" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.917;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-2" target="po6YpFjUPnP8YbVet1n4-51">
           <mxGeometry relative="1" as="geometry" />
