@@ -22,6 +22,9 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-6" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="po6YpFjUPnP8YbVet1n4-7" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
