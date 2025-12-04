@@ -204,16 +204,16 @@
           <mxGeometry x="-130" y="-130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-48" value="演唱会ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-49" value="演唱会名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="-10" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-50" value="场馆名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="-140" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-51" value="抢票开始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="560" width="120" height="80" as="geometry" />
+          <mxGeometry x="-300" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-52" value="演出时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="620" width="120" height="80" as="geometry" />
