@@ -160,10 +160,10 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-48" value="演唱会ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-49" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-49" value="演唱会名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-50" value="场馆名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-51" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
