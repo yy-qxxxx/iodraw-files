@@ -230,10 +230,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-72" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-170" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="-140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-73" value="订单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-210" width="120" height="80" as="geometry" />
+          <mxGeometry x="390" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-74" value="总价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="-70" width="120" height="80" as="geometry" />
