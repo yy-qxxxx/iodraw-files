@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="po6YpFjUPnP8YbVet1n4-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-2" target="po6YpFjUPnP8YbVet1n4-8">
           <mxGeometry relative="1" as="geometry" />
@@ -56,12 +56,6 @@
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-10" value="被抢" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.33;exitY=0.05;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-1" target="po6YpFjUPnP8YbVet1n4-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="160" as="sourcePoint" />
-            <mxPoint x="150" y="110" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
