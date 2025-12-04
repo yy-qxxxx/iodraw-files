@@ -21,7 +21,7 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-2" value="演唱会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-3">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-3" target="po6YpFjUPnP8YbVet1n4-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="420" as="targetPoint" />
           </mxGeometry>
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-10" value="被抢" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="320" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
