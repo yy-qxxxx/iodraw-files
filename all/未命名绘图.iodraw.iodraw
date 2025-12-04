@@ -12,6 +12,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="po6YpFjUPnP8YbVet1n4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-1" target="po6YpFjUPnP8YbVet1n4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -117,7 +120,7 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-35" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="po6YpFjUPnP8YbVet1n4-36" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-37" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
