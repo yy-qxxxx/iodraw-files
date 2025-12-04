@@ -21,6 +21,12 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-1" target="po6YpFjUPnP8YbVet1n4-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="po6YpFjUPnP8YbVet1n4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-1" target="po6YpFjUPnP8YbVet1n4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="po6YpFjUPnP8YbVet1n4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="po6YpFjUPnP8YbVet1n4-1" target="po6YpFjUPnP8YbVet1n4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="po6YpFjUPnP8YbVet1n4-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
