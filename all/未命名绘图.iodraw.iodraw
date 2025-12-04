@@ -28,8 +28,8 @@
         <mxCell id="po6YpFjUPnP8YbVet1n4-8" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="po6YpFjUPnP8YbVet1n4-10" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="120" height="80" as="geometry" />
+        <mxCell id="po6YpFjUPnP8YbVet1n4-10" value="被抢" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
