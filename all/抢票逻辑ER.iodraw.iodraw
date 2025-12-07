@@ -477,7 +477,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="diBs7NuekC2PHDyzt7XD-108" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="diBs7NuekC2PHDyzt7XD-99">
+        <mxCell id="diBs7NuekC2PHDyzt7XD-108" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="diBs7NuekC2PHDyzt7XD-99">
           <mxGeometry x="-0.0318" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -486,6 +486,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="1210" as="sourcePoint" />
             <mxPoint x="350" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="diBs7NuekC2PHDyzt7XD-109" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="diBs7NuekC2PHDyzt7XD-100">
+          <mxGeometry x="-0.7375" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
