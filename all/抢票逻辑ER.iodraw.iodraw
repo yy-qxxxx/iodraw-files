@@ -205,6 +205,14 @@
         <mxCell id="UGbMoxDDbZ8xLXiWlbyc-34" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="UGbMoxDDbZ8xLXiWlbyc-33">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="UGbMoxDDbZ8xLXiWlbyc-35" value="" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="UGbMoxDDbZ8xLXiWlbyc-33">
+          <mxGeometry y="120" width="160" as="geometry">
+            <mxRectangle y="590" width="50" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UGbMoxDDbZ8xLXiWlbyc-36" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="UGbMoxDDbZ8xLXiWlbyc-35">
+          <mxGeometry width="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
